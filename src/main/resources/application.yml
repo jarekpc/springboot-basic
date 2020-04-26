@@ -20,3 +20,19 @@ spring:
       ddl-auto: create-drop
 #    show-sql: true
 
+roles:
+  map:
+    abcd: 1
+    bcbd: 2
+    cdbd: 3
+  nowemapy:
+    1: admin
+    2: bussines
+    3: normal
+#input:
+##  name: raja
+##  age: 12
+#  somedata:
+#    abcd: 1
+#    bcbd: 2
+#    cdbd: 3
